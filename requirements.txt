@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+groq
+pandas
+numpy
+dotenv
+os
