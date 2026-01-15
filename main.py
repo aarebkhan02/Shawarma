@@ -24,3 +24,9 @@ async def chat(request: Request):
         "User": data["message"],
         "Shawarma": model(data["message"])
     }
+
+
+@app.get("/")
+def root():
+    return {"status": "Shawarma chatbot is running 🚀"}
+

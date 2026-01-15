@@ -3,4 +3,4 @@ uvicorn
 groq
 pandas
 numpy
-dotenv
+python-dotenv
