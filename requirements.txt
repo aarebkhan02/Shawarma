@@ -4,4 +4,3 @@ groq
 pandas
 numpy
 dotenv
-os
